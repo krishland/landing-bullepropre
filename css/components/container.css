@@ -1,8 +1,6 @@
 .container {
-  margin-bottom: 40px;
-}
-.banner .container h1 {
-  color: white;
+  width: 700px;
+  margin: 0 auto;
 }
 
 .banner .container p {
