@@ -1,0 +1,22 @@
+.container {
+  margin-bottom: 40px;
+}
+.banner .container h1 {
+  color: white;
+}
+
+.banner .container p {
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: -20px;
+}
+
+.banner .container a {
+  color: white;
+  background-color: #ec5e73;
+  border-radius: 40px;
+  padding: 10px 20px;
+}
+
+.container h2 {
+  text-align: center;
+}

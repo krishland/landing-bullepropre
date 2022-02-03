@@ -1,0 +1,26 @@
+.footer {
+  background-color: #ecbebd;
+  padding: 20px;
+}
+
+.footer ul{
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+.footer li {
+  display: inline;
+  padding: 10px;
+}
+.footer i {
+  font-size: 30px;
+  color: #fefefe;
+}
+.footer i:hover {
+  color: black;
+}
+
+.footer p {
+  color: #fefefe;
+  text-align: center;
+}
